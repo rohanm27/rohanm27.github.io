@@ -5,9 +5,12 @@ html, body, ul, h1, h2, h3{
     width: 100vw; 
     height: 100vh; 
     /*overflow: hidden;*/
-    box-sizing: border-box; 
     font-family: 'Courier New', Courier, monospace;
     color: #585858;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 
