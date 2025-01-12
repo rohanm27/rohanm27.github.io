@@ -26,12 +26,12 @@ img {
 
 
 #greet{
-	font-size: 27px;
+	font-size: 22px;
 	font-weight:bolder;
 }
 
 p{
-	font-size: 20px;
+	font-size: 15px;
 	
 }
 
@@ -78,7 +78,7 @@ a{
 	left: 0;
 	right: 0;
 	
-	font-size: 20px;
+	font-size: 10px;
 	
 }
 
