@@ -110,7 +110,7 @@ ul#nav li a:hover{
   /* viewport adjustments / media queries */
 
 /* mobile view */
-	@media screen and (max-width: 430px){
+	@media screen and (max-width: 400px){
 	
 		 #footer{
 			 bottom: 10%;
