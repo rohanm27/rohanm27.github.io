@@ -1,9 +1,8 @@
 
 html, body, ul, h1, h2, h3{
     margin: 0;
-    padding: 0; 
-    width: 90vw; 
-    height: 90vh; 
+    padding: 0;
+    overflow-x: hidden;
     /*overflow: hidden;*/
     font-family: 'Courier New', Courier, monospace;
     color: #585858;
@@ -25,20 +24,18 @@ img {
 
 
 #greet{
-	font-size: 22px;
+	font-size: 20px;
 	font-weight:bolder;
 }
 
 p{
-	font-size: 15px;
-	
+	font-size: 15px;	
 }
 
 div {
 	/* align bio to center */
 	text-align: center;
 }
-
 
 #nav{
 	width: 100%;
@@ -53,13 +50,11 @@ div {
 
 
 #nav li{
-
 	text-align: center; 
 	font-weight: bold;	
-	font-size: 22px;
-	padding: 20px;
+	font-size: 20px;
+	padding: 10px;
 	list-style-type: none;
-	
 }	
 
 
@@ -76,16 +71,13 @@ a{
 	position: static;
 	left: 0;
 	right: 0;
-	
 	font-size: 20px;
-	
 }
 
 /* social media icons */
 
 .fa{
-
-	padding: 6px;
+	/*padding: 6px;*/
 	width: 1em;
 	text-align: center;
 	border-radius: 50%;
@@ -114,16 +106,10 @@ ul#nav li a:hover{
 	text-decoration: underline;
 }
 
-
-
-
-
-
 /* RESPONSIVE STYLES */
   /* viewport adjustments / media queries */
 
-
-  /* mobile view */
+/* mobile view */
 	@media screen and (max-width: 430px){
 	
 		 #footer{
@@ -141,6 +127,3 @@ ul#nav li a:hover{
 		
 		}
 } 
-
-
-	
