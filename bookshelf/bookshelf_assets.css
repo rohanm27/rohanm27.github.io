@@ -3,6 +3,7 @@ body, input, select, textarea {
   font-family: 'Courier New', 'Courier New', Courier, monospace;
   font-weight: 300;
   line-height: 1.7;
+  margin: 75px
 }
 
 a{
