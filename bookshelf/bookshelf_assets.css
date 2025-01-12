@@ -1,10 +1,8 @@
 body, input, select, textarea {
   color: #585858;
- /* font-family: 'Open Sans', sans-serif; */
   font-family: 'Courier New', 'Courier New', Courier, monospace;
   font-weight: 300;
   line-height: 1.7;
-  margin: 100px
 }
 
 a{
