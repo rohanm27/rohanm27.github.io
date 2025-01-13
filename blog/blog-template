@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <!-- Meta tags -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <title>Blog Title</title>
+
+        <!-- Fonts and Stylesheets -->
+        <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="blog_assets.css">
+        
+        <!-- Main Title -->
+        <h1>[Your Main Title Here]</h1>
+    </head>
+
+    <body>
+        <!-- Introduction Section -->
+        <section class="introduction">
+            [Your introduction paragraph here]
+        </section>
+
+        <!-- Main Content Sections -->
+        <section class="main-content">
+            <h2>[First Main Section]</h2>
+            <p>[Your content here]</p>
+
+            <h3>[Subsection Title]</h3>
+            <p>[Subsection content]</p>
+
+            
+            <!--dd links -->
+            <p>
+                <a href="[your-url-here]">[Link Text]</a>
+            </p>
+        </section>
+
+    </body>
+</html>
